@@ -1,3 +1,9 @@
+#############################
+# First GitHub push
+# By Zeeshaan Noor
+# zeeguitarlove
+#############################
+
 import os
 os.system('clear')
 
