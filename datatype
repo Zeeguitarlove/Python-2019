@@ -1,0 +1,21 @@
+import os
+os.system('clear') 
+
+#########DATATYPES
+# String
+# Numbers
+# Lists
+# Tuples
+# Dictiionaries
+# Boolean
+###################
+
+
+#String
+first_name = 'zees'
+print(first_name)
+
+#Numberd
+first_name = 'zee'
+age = 24
+print(first_name)
